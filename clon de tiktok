@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/tiktok.css">
+    <link rel="stylesheet" href="/normalize.css">
+    <title>tistos</title>
+</head>
+<body class="body">
+
+    <header class="hero_container">
+        <div class="hero">
+            <img src="/tiktok.jpg" class="hero_img">
+            <div class="buscador"><input type="search" class="buscar" placeholder="Buscar"><i class="fas fa-search"></i></div>
+
+            <div class="botones">
+                <div class="cargar boton">
+                    <button class="boton-1 butons"><img src="/mas.svg">
+                        <span class="space">Cargar</span>
+                    </button>
+                </div>
+
+                <div class="iniciar boton"><button class="boton-2 butons">Iniciar sesión</button></div>
+                
+                <div class="puntos boton"><button class="boton-3 butons"><img src="/dots.svg"></button></div>
+            </div>
+
+            </div>
+    </header>
+
+    <section class="todo">
+
+    <div class="left_bar">
+        <div class="fixed">
+
+            <div class="iconos home">
+                <h2 class="fas fa-home left_icon red"><span class="font"> Para ti</span></h2>
+            </div>
+            <div class="iconos">
+                <h2 class="fas fa-users left_icon"><span class="font">Siguiendo</span></h2>
+            </div>
+            <div class="iconos">
+                <h2 class="fas fa-compass left_icon"><span class="font"> Explorar</span></h2>
+            </div>
+            <div class="iconos">
+                <h2 class="fas fa-camera left_icon"><span class="font"> Live</span></h2>
+
+            </div>
+
+            <div class="extra">
+
+                <hr>
+
+                <h3 class="cuentas">Cuentas que sigues</h3>
+                <p class="sigues">Las cuentas que sigues aparecerán aquí</p>
+            
+                <hr>
+
+                <a href="https://www.youtube.com/watch?v=kd-9RlF-yNc" target="_blank" class="sigues links">Acerca de</a>
+
+                <a href="https://www.youtube.com/watch?v=kd-9RlF-yNc" target="_blank" class="sigues links">Sala de prensa</a>
+
+                <a href="https://www.youtube.com/watch?v=kd-9RlF-yNc" target="_blank" class="sigues links">Contactos</a>
+
+                <a href="https://www.youtube.com/watch?v=kd-9RlF-yNc" target="_blank" class="sigues links">Vacantes</a>
+
+                <a href="https://www.youtube.com/watch?v=kd-9RlF-yNc" target="_blank" class="sigues links">ByteDance</a>
+
+                <br><br>
+
+                <a href="https://www.youtube.com/watch?v=kd-9RlF-yNc" target="_blank" class="sigues links">TikTok for Good</a>
+
+                <a href="https://www.youtube.com/watch?v=kd-9RlF-yNc" target="_blank" class="sigues links">Publicidad</a>
+
+                <a href="https://www.youtube.com/watch?v=kd-9RlF-yNc" target="_blank" class="sigues links">Developers</a>
+
+                <a href="https://www.youtube.com/watch?v=kd-9RlF-yNc" target="_blank" class="sigues links">Transparencia</a>
+
+                <a href="https://www.youtube.com/watch?v=kd-9RlF-yNc" target="_blank" class="sigues links">TikTok Bonus</a>
+
+                <a href="https://www.youtube.com/watch?v=kd-9RlF-yNc" target="_blank" class="sigues links">TikTok Embeds</a>
+
+                <br><br>
+            
+                <a href="https://www.youtube.com/watch?v=kd-9RlF-yNc" target="_blank" class="sigues links">Ayuda</a>
+
+                <a href="https://www.youtube.com/watch?v=kd-9RlF-yNc" target="_blank" class="sigues links">Seguridad</a>
+
+                <a href="https://www.youtube.com/watch?v=PEnJbjBuxnw" target="_blank" class="sigues links">Términos</a>
+
+                <a href="https://www.youtube.com/watch?v=PEnJbjBuxnw" target="_blank" class="sigues links">Privacidad</a>
+
+                <a href="https://www.youtube.com/watch?v=kd-9RlF-yNc" target="_blank" class="sigues links">Portal de creadores</a>
+
+                <a href="https://www.youtube.com/watch?v=kd-9RlF-yNc" target="_blank" class="sigues links">Normas de la comunidad</a>
+
+                <br><br>
+
+                <h3 class="sigues">&copy; 2023 TikTok</h3>
+
+            </div>
+
+        </div>
+    </div>
+
+        <div class="video"> 
+            <div class="videos">
+                <nav class="publicaciones">
+                    <article class="images margin"><img src="/logo.jpg" class="img"></article>
+                    <div class="icons">
+                        <i class="fas fa-heart"></i>
+                        <h2 class="number">8943</h2>
+
+                        <i class="fas fa-comment-dots"></i>
+                        <h2 class="number">3755</h2>
+
+                        <i class="fas fa-bookmark"></i>
+                        <h2 class="number">1830</h2>
+
+                        <i class="fas fa-share"></i>
+                        <h2 class="number">1325</h2>
+                    </div>
+                </nav>
+
+                <nav class="publicaciones">
+                    <article class="images"><img src="/granos de cafe.jpg" class="img"></article>
+                    <div class="icons">
+                        <i class="fas fa-heart"></i>
+                        <h2 class="number">1355</h2>
+                        
+                        <i class="fas fa-comment-dots"></i>
+                        <h2 class="number">2023</h2>
+                        
+                        <i class="fas fa-bookmark"></i>
+                        <h2 class="number">3412</h2>
+                        
+                        <i class="fas fa-share"></i>
+                        <h2 class="number">2012</h2>
+                    </div>
+                </nav>
+
+                <nav class="publicaciones">
+                    <article class="images"><img src="/granos.jpg" class="img"></article>
+                    <div class="icons">
+                        <i class="fas fa-heart"></i>
+                        <h2 class="number">6788</h2>
+
+                        <i class="fas fa-comment-dots"></i>
+                        <h2 class="number">8904</h2>
+
+                        <i class="fas fa-bookmark"></i>
+                        <h2 class="number">1476</h2>
+                        
+                        <i class="fas fa-share"></i>
+                        <h2 class="number">1675</h2>
+                    </div>
+                </nav>
+                
+                <nav class="publicaciones">
+                    <article class="images"><img src="/laptop.jpg" class="img"></article>
+                    <div class="icons">
+                        <i class="fas fa-heart"></i>
+                        <h2 class="number">1465</h2>
+                        
+                        <i class="fas fa-comment-dots"></i>
+                        <h2 class="number">948</h2>
+                        
+                        <i class="fas fa-bookmark"></i>
+                        <h2 class="number">100</h2>
+                        
+                        <i class="fas fa-share"></i>
+                        <h2 class="number">1002</h2>
+                    </div>
+                </nav>
+
+            </div>
+        </div>
+    </section>
+
+    <script src="https://kit.fontawesome.com/2c36e9b7b1.js" crossorigin="anonymous"></script>
+</body>
+</html>
